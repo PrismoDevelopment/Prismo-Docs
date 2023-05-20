@@ -17,3 +17,5 @@ To get starded You must add **Prismo** To Your Sever. [**add me**](https://disco
 - **Manage Roles**
 - **Ban/kick**
 - **Top.GG Vote** (Optional)
+
+[!embed](https://www.youtube.com/embed/A5dCAoaYWTE)

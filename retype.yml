@@ -3,20 +3,41 @@ output: .retype
 url: docs.prismo.one
 branding:
   title: Prismo
-  logo: /Public/img/prismo.png
-  label: Docs
+  logo: /Public/img/prismo-light.png
+  logoDark: /Public/img/prismo.png
+  label: Guide
+editor:
+  enabled: false
 links:
 - text: Home
   link: /
   icon: home
 - text: Support
   link: https://discord.gg/prismo
+  icon: rocket
 - text: GitHub
   link: https://github.com/PrismoDevelopment/Prismo
+  icon: mark-github
 - text: Website
   link: https://prismo.one
+  icon: server
 cache:
   strategy: query
 favicon: Public/img/prismo.ico
+gravatar.default: robohash
+meta:
+  title: " | Prismo.one - The Discord Supermacy"
+  description: "Prismo is a Discord bot that is designed to make your server more fun and interactive."
+server:
+  host: 127.0.0.1:5005
 footer:
   copyright: "© Copyright {{ year }}. [Prismo, Inc.](https://prismo.one/) All rights reserved."
+  links:
+  - text: GitHub
+    link: https://github.com/PrismoDevelopment
+  - text: Invite
+    link: https://discord.com/api/oauth2/authorize?client_id=1024365860246278244&permissions=8&redirect_uri=https%3A%2F%2Fdiscord.gg%2FUAGA9htZCe&response_type=code&scope=bot%20applications.commands.permissions.update%20identify%20guilds
+  - text: Website
+    link: https://prismo.one
+  - text: Contact
+    link: https://discord.gg/prismo

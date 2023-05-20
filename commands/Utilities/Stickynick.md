@@ -1,0 +1,61 @@
+---
+title: Stickynick
+icon: dot-fill
+author:
+  name: Prismo
+  avatar: https://cdn.discordapp.com/avatars/1024365860246278244/51d5603eff69376da9a21e86b07a75bd.png?size=2048
+  link: https://discord.gg/prismo
+sidebar_position: 1
+---
+
+
+# Command: Stickynick
+
+:::tip Description
+`Sticks a permenant nickname to an user.`
+:::
+
+## Usage
+
+```
+<snick @user nickname>
+```
+
+## Category
+
+_**Utilities**_
+
+:::info Aliases
+- Alias 1: snick
+- Alias 2: stickynickname
+- Alias 3: snickname
+:::
+
+:::caution Cooldown
+This command has a cooldown of 5 seconds.
+:::
+
+## Permissions
+
++++ User Permissions
+- ManageNicknames
++++ Bot Permissions
+- ViewChannel
+- SendMessages
+- EmbedLinks
+- ManageEmojisAndStickers
+- ManageGuildExpressions
++++
+
+## Requirements
+
+[!badge variant="danger" text="❌ Vote is not required"]  
+[!badge variant="danger" text="❌ Premium is not required"]
+
+:::info Example
+This is an example of the Stickynick command in action:
+
+<img src="https://imgur.com/CSk5Sn9.png" alt="Command Image" width="400"/>
+
+:::
+

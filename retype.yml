@@ -1,0 +1,22 @@
+input: ./
+output: .retype
+url: docs.prismo.one
+branding:
+  title: Prismo
+  logo: /Public/img/prismo.png
+  label: Docs
+links:
+- text: Home
+  link: /
+  icon: home
+- text: Support
+  link: https://discord.gg/prismo
+- text: GitHub
+  link: https://github.com/PrismoDevelopment/Prismo
+- text: Website
+  link: https://prismo.one
+cache:
+  strategy: query
+favicon: Public/img/prismo.ico
+footer:
+  copyright: "© Copyright {{ year }}. [Prismo, Inc.](https://prismo.one/) All rights reserved."

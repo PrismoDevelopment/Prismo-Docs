@@ -8,37 +8,40 @@ author:
 
 # General FAQs
 
-## Frequently Asked Questions (FAQ)
+## Frequently Asked Questions (FAQs)
+
+### Q: How do i mention users in embed?
+**Ans.** Run `.variables` or `/variables` Command.
 
 ### Q: How do I start a giveaway using Prismo Bot?
-A: To start a giveaway, use the command `.gstart <time> <winner count> <prize>`. You can also upload an image to the giveaway.
+**Ans.** To start a giveaway, use the command `.gstart <time> <winner count> <prize>`. You can also upload an image to the giveaway.
 
 ### Q: What fun commands are available in Prismo Bot?
-A: Prismo Bot offers a variety of fun commands for entertainment. You can explore commands like Marriage, Imagine, and more.
+**Ans.** Prismo Bot offers a variety of fun commands for entertainment. You can explore commands like Marriage, Imagine, and more.
 
 ### Q: How can I set up a status role in Prismo Bot?
-A: Prismo Bot allows you to set up a status role using the command `.help statusrole`. Follow the instructions provided to configure a status role.
+**Ans.** Prismo Bot allows you to set up a status role using the command `.help statusrole`. Follow the instructions provided to configure a status role.
 
 ### Q: Can I enable YouTube notifications with Prismo Bot?
-A: Yes, Prismo Bot offers a YouTube Notification command. To enable YouTube notifications, use the command `.help ytnotifier` for assistance.
+**Ans.** Yes, Prismo Bot offers a YouTube Notification command. To enable YouTube notifications, use the command `.help ytnotifier` for assistance.
 
 ### Q: What is the Magic Avatar command in Prismo Bot?
-A: The Magic Avatar command allows you to perform avatar transformations. You can learn how to use this command with the help of `.help magicavatar`.
+**Ans.** The Magic Avatar command allows you to perform avatar transformations. You can learn how to use this command with the help of `.help magicavatar`.
 
 ### Q: Are there any premium features in Prismo Bot?
-A: No, currently all features of Prismo Bot are available for free. The previous premium system has been removed.
+**Ans.** No, currently all features of Prismo Bot are available for free. The previous premium system has been removed.
 
 ### Q: How can I report bugs or issues with Prismo Bot?
-A: If you encounter any bugs or issues, please contact the support team or the bot developer for assistance. They will be able to help you with bug reporting and issue resolution.
+**Ans.** If you encounter any bugs or issues, please contact the support team or the bot developer for assistance. They will be able to help you with bug reporting and issue resolution.
 
 ### Q: Is there a vote system in Prismo Bot?
-A: Yes, a vote system has been implemented for specific commands. You can use the vote system with the designated commands mentioned in the bot's documentation.
+**Ans.** Yes, a vote system has been implemented for specific commands. You can use the vote system with the designated commands mentioned in the bot's documentation.
 
 ### Q: How can I configure custom setup roles in Prismo Bot?
-A: Prismo Bot allows you to configure custom setup roles. You can find instructions on how to set them up in the bot's documentation or by using the appropriate command.
+**Ans.** Prismo Bot allows you to configure custom setup roles. You can find instructions on how to set them up in the bot's documentation or by using the appropriate command.
 
 ### Q: Does Prismo Bot have an antinuke feature?
-A: Yes, Prismo Bot includes an antinuke feature to enhance the security of your Discord server. The antinuke feature protects against malicious actions and provides improved server protection.
+**Ans.** Yes, Prismo Bot includes an antinuke feature to enhance the security of your Discord server. The antinuke feature protects against malicious actions and provides improved server protection.
 
 ### Q: What is the Autorole command in Prismo Bot?
-A: The Autorole command in Prismo Bot assigns roles to users when they join the server. Use the command `autorole <add|remove> <bot|human> <role>` to manage autoroles.
+**Ans.** The Autorole command in Prismo Bot assigns roles to users when they join the server. Use the command `autorole <add|remove> <bot|human> <role>` to manage autoroles.

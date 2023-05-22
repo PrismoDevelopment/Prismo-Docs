@@ -10,18 +10,16 @@ author:
 
 ## ⚙️ Version 1.4
 - Added __invite management__ system.
-- Commands added:
-```
-invitecodes, 
-invitelogs, 
-invitetracking, 
-invited, 
-inviter, 
-invites, 
-leaderboard,
-purgeinvitecodes, 
-resetinvites
-```
+- Commands added.
+  - invitecodes
+  - invitelogs
+  - invitetracking
+  - invited
+  - inviter
+  - invites
+  - leaderboard
+  - purgeinvitecodes
+  - resetinvites
 - *Documentation will be updated soon*
 
 ## ⚙️ Version 1.3
